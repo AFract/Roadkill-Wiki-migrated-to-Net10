@@ -1,15 +1,22 @@
 [![Nuget.org](https://img.shields.io/nuget/v/Roadkill.svg?style=flat)](https://www.nuget.org/packages/Roadkill)
 [![CI](https://github.com/AFract/roadkill-fork/actions/workflows/ci.yml/badge.svg)](https://github.com/AFract/roadkill-fork/actions/workflows/ci.yml)
 
-Fork de https://github.com/roadkillwiki/roadkill
+# Roadkill Wiki in .Net 10
 
-Basé sur Roadkill, sous licence Microsoft Public License (MS-PL) : voir [LICENSE.md](LICENSE.md).
+This repository is a fork of [Roadkill wiki](https://github.com/roadkillwiki/roadkill), a nice Wiki project in .Net, licensed under Microsoft Public License (MS-PL) (see [LICENSE](LICENSE.md)). However the legacy (now Archived) repository was not maintained since .Net 4 framework.
+I'm not related to the original author in any way.
+
+On this repository, you'll find **a version of it converted to .NET 10 with several fixes and new features** (listed below). 
+It was also proposed as a [pull request](https://github.com/roadkillwiki/roadkill/pull/128) to the original author, who have merged it in a separate branch before he archived the original repository: https://github.com/roadkillwiki/roadkill/tree/dotnet-10?tab=readme-ov-file
 
 ### Current status (this fork)
 
 This fork has been migrated to **.NET 10 / ASP.NET Core MVC** (details in [MIGRATION.md](MIGRATION.md)).
 
+All (eventual) future developments will happen in this repository. Issues and Pull Requests are warmly welcome, however there is no commitment to take them into account due to lack of time or other reasons.
+
 **Upgrading a 2.x installation:** [English guide](docs/upgrade-v2-to-v3.md) · [Guide en français](docs/migration-v2-vers-v3.md)
+Please see dropped features before to avoid surprises during update.
 
 #### Changes (migration)
 

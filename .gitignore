@@ -105,3 +105,4 @@ bower_components/
 src/Roadkill.Web/Assets/Scripts/roadkill.js
 roadkill.min.js
 **/Assets/CSS/*.css
+/Publish
