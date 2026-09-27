@@ -4,6 +4,8 @@ _This folder contains the documentation supplied by the original author in 2018.
 
 # Introduction
 
+[![Nuget.org](https://img.shields.io/nuget/v/Roadkill.svg?style=flat)](https://www.nuget.org/packages/Roadkill)
+
 * [Download the latest **stable** version (2.0)](https://github.com/roadkillwiki/roadkill/releases/tag/v2.0)
 * [Read the docs](https://github.com/roadkillwiki/roadkill/tree/master/docs)
 * [Try a demo - *sorry this is currently unavailable until further notice*](http://demo.roadkillwiki.net/)
